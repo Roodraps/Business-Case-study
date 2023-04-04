@@ -1,2 +1,202 @@
 # Business-Case-study
 Business world!
+
+# 1. What Steve Jobs learnt from Nike's marketing campaign that beats its rival Adidas.
+
+The story that I'm about to tell you today is the story of a brand
+that is not just an inspiration for people like you and me
+but also for a legend like Steve Jobs.
+People, in 1996 when Steve Jobs came back to Apple
+Apple was crippling with losses because of 11 consecutive years of failure
+and it was almost about to go bankrupt.
+During this time when Steve Jobs came back to the company
+the biggest challenge that he faced was the reputation of the company
+which had degraded to such an extent that people had completely lost faith.
+And that is the reason why he had to do something magical
+to actually bring the company back on track.
+During this time he came out with a legendary campaign called the 'Think Different' campaign
+which even today is known as one of the greatest marketing campaigns ever.
+And you know what people?
+This campaign brought back the trust of the common man in Apple
+and laid a solid foundation to such an extent
+that today, if Apple is a trillion dollar company
+it is only because of legendary campaigns like the 'Think Different' campaign.
+So, when I was doing a deep dive
+to try and understand what exactly was Steve Jobs thinking while he was designing the 'Think Different' campaign
+I found an archived video wherein Steve Jobs is addressing his executive
+and he states Nike to be one of his inspirations for the 'Think Different' campaign.
+And that's when I started to think
+what exactly is so special about a company that sells shoes
+that it was able to inspire a legend like Steve Jobs.
+And that's what is going to be the subject of this episode
+wherein we are going to decode the historic greatness of Nike
+with a classic example.
+So, the story dates back to the year 2012 when Summer Olympics was being held in London.
+And because the Summer Olympics was being held
+all the sports brands were very eager to become the title sponsors of the Olympics
+because they knew that if they could become the title sponsor of the Olympics
+they could pump in a lot of profit.
+So, the auction was held and the title sponsorship went to Adidas
+and Nike lost its chance to become the title sponsor to its arch rival.
+And adidas paid $150 million just to be the title sponsor of the Olympics.
+And every time we hear a figure like this, the first question that comes to our mind is
+what exactly is so special about the title sponsorship
+that you would pay $150 million just to be associated with the name of Olympics.
+And the answer to that lies in a very simple example
+that is very closer to our home, that is, Vivo's title sponsorship to IPL.
+Now, when I understood that Vivo is going to pay Rs 2,200 crores
+just to get its name as 'Vivo IPL'
+I got completely shocked
+and that is when I looked at the growth of Vivo in 2018 and 2019
+and as it turns out,
+in 2018 Q1, that is, just before the IPL started
+Vivo was shipping about 2.1 million units, alright?
+But one year later, after the IPL happened
+in the exact same quarter in 2019
+Vivo was shipping 4.5 million units.
+That's a staggering growth of more than 100%
+in the world's second largest mobile market.
+And this is the reason why
+title sponsorship of any popular sports event
+is a goldmine investment for any company.
+And that's the reason why Olympics was like a golden gateway
+for adidas to get way ahead of Nike.
+And specifically, they also sat down with the Olympics committee
+to try to make sure that they make such stringent rules
+that no other brand, let alone Nike
+will be able to steal their thunder by actually associating their name with Olympics.
+So, the Olympics committee came out with a bunch of strict rules and regulations
+that have to be followed by every single brand in such a way
+that they could in no way associate themselves with the Olympics
+and by the way this also included a list of words
+which included the words 'London Olympics', 'Summer Olympics', 'Olympics', '2012'
+'The rings of the Olympics' and so on and so forth.
+So, theoretically it was made impossible for any brand
+to get associated with Olympics
+in any way that would steal the thunder of Adidas as a brand.
+So, with all of this put together everybody thought that Adidas is now going to go viral
+it's going to remain at the top of the chart
+because now it is the title sponsor of the Olympics.
+But you know what? There was a slight twist in between
+and when the actual results came out
+as it turns out, while adidas had about 9,000 tweets
+associating adidas with the Olympics,
+there were about 16,000 tweets that associated Nike with the Olympics.
+Not just that, during the tenure of the Olympics
+that is, starting from the opening ceremony to the closing ceremony
+adidas added about 12,000 followers to its social media handle
+while Nike added 57,000 followers to its social media handle.
+And the cherry on the cake is
+there was a survey that was conducted in the US
+wherein people were asked 'Who do you exactly think is the title sponsor of the Olympics?'
+21% of those people thought that adidas is the title sponsor of the Olympics
+BUT
+37% of the people identified Nike to be the title sponsor of the Olympics.
+Which means what?
+Millions and millions of people were thinking
+that Nike was the title sponsor of the Olympics and not adidas!
+So, the question is
+without being the title sponsor of the Olympics;
+without spending $150 million;
+without even using the keywords to associate yourself with the Olympics;
+How is it even practically possible for a brand to acquire more publicity
+than the real title sponsor?
+And that's where the legendary strategy of Nike comes into play.
+So, the first thing that they understood was
+regardless of how complex the system is, there will always be a loophole.
+And they found 3 loopholes.
+The first loophole that they found was
+regardless of whoever is the title sponsor of the Olympics
+the athletes were free to choose whichever shoe they wanted.
+And that is the reason why
+Nike hired 400 Olympians to be its brand ambassador
+and just asked them to wear the Nike shoe that they were given
+And Nike came front with a quirky line of shoes which was named as Volt
+wherein they distributed yellow-green coloured shoes
+to the athletes to be worn during their matches.
+And the reason why they specifically chose the yellow-green lineup was because
+that colour was in perfect contrast of the tracks of the Olympics.
+The second loophole that they found was in this rule
+which prohibited Nike from showcasing the London of UK in their commercials.
+But you know what?
+The loophole here is
+that there are 28 other locations in this world
+which are named as London except the London of UK.
+So, Nike shot their commercials in all other Londons
+except London in UK.
+So, the commercials were shot in London in Ohio,
+Little London in Jamaica,
+the London Hotel, the London Gym
+Small London in Nigeria and even the London Road.
+And very smartly
+Nike was able to place the word 'London' in all of its commercials, legally.
+And third and most importantly and here's where the sweet spot is.
+Usually if you look at these Nike and Adidas commercials
+you will see all the celebrities endorsing the brand
+but when it comes to Nike, for the Olympics, they were not allowed to use Olympians for endorsement.
+So, while adidas was actually flaunting all of its commercials
+by hiring all of these Olympians to be its brand ambassador
+Nike decided to hire average teenagers
+as ambassadors for its brand endorsement.
+I repeat, while adidas had Olympians
+Nike hired average teenagers who were not known to anybody
+as ambassadors to endorse its brand.
+And came out with a beautiful masterpiece which literally, literally broke the Internet.
+And this is what the commercial looked like.
+Now, if you looked at that commercial closely, you must have realized
+that just like Coca-Cola leveraged the emotion of happiness
+to communicate its idea.
+Nike leverages the emotion of inspiration to communicate its idea.
+In both cases, both these brands
+are trying to give you an involuntary experience of their commercial.
+And if you look at Nike's commercial even more closely, you will see
+that they don't want to talk about Usain Bolt.
+They want to talk about the Usain Bolt spirit within every single individual
+like you and like me.
+And if you are somebody who is pushing your limits
+every single day to become a better version of yourself
+that Nike commercial is literally depicting your own story.
+And because Nike managed to strike a cord with local champions
+it was able to go trending and Nike was trending number one on YouTube
+one week after the Olympics started
+with 4.5 million views.
+As compared to that,
+adidas was at number three with only 2.9 million views.
+And that's how without being the title sponsor,
+without paying $150 million
+and without actually using the banned keywords
+Nike managed to steal the thunder from adidas
+and emerged as a champion in this marketing war.
+Now, we've got 3 very important lessons to learn from this entire case study.
+Number one, do you realize
+that even if Nike had not tried so hard
+if the Olympics happened without Nike coming out with its 'Find Your Greatness' commercial
+people would still remember Nike, right?
+Nike wouldn't be forgotten and yet
+Nike put in this extra efforts to actually come out with a beautiful commercial
+to beat adidas inspite of all odds.
+And that is because Nike, as a brand, realizes
+that the only difference between ordinary and extraordinary
+is that little extra.
+In this case, it's Nike's efforts
+to emerge as a legend inspite of all odds.
+Number two,
+people might forget what you said but they will never ever forget how you made them feel
+and Nike's commercial is a classic depiction of this quote.
+So, if you pick up some work to do, just make sure that it's remarkable.
+Because in this world 99% of the people are good
+but 1% are great and that is only because
+they choose to be great.
+Because every single champion today understands
+that good is imperative but greatness is always, always a choice.
+And last and most importantly,
+like the legend says
+'Somehow we have come to believe that greatness is meant only for a chosen few
+that greatness is only meant for the superstar
+but the truth is- greatness is for everyone.
+It's not about lowering the expectation but about raising it for each one of us
+because greatness is not in one special person or one special place
+greatness is wherever somebody is trying to find it.
+So, my dear friend, my question to you is
+What are you doing to find your greatness?
+
