@@ -200,3 +200,67 @@ greatness is wherever somebody is trying to find it.
 So, my dear friend, my question to you is
 What are you doing to find your greatness?
 
+
+
+# Toyota Kanban Approach 
+
+In this video, we will discuss Toyota Kanban. We will start with an overview of the Toyota Production System.
+
+In 1978, Taiichi Ohno considered to be the father of the Toyota Production System, wrote a book about the thinking behind the system.
+
+In this book he describes what is now sometimes called lean thinking or lean management. We will see that this book contains many of the principles that are used in agile projects.
+
+After World War II, Toyota had a goal to catch up with America in three years in the automobile industry. Japan's automobile industry was very small at the time compared to American companies like Ford and General Motors. The main focus of the Toyota production system is to eliminate waste and increase productivity. Taiichi Ohno had heard that American workers were something like nine times more productive than Japanese workers and decided that there must be a lot of wasted effort. The result was a decades long focus on eliminating waste and continuously improving. This eventually resulted in Toyota becoming the largest automobile company in the world.
+
+Whether or not the productivity numbers were true that's what Toyota believed and helps explain their focus on eliminating waste.
+
+Toyota studied and embraced many of the production ideas from Ford but used a more agile approach to producing cars. After World War II, resources were very scarce in Japan. And Toyota simply couldn't afford to hold a lot of inventory as was done in traditional mass production. Out of need, Toyota developed a leaner, more flexible approach to mass producing cars. We will see that this lean approach uses many of the same principles that are used today in agile projects.
+
+In his book, Taiichi Ohno emphasized the need for the team to have a clear purpose. He said I would like to emphasize that the Toyota production systems was realized because there were always clear purposes and needs.
+
+Lean principles of the Toyota production system can be applied in many contexts. They do not apply only to lean manufacturing or production. In fact, Taiichi Ohno wrote about this in the preface to the English edition of the book, which came out in 1988. He said the Toyota production system is not just a production system. I am confident it will reveal its strength as a management system adapted to today's era of global markets and high level computerized information systems. Our discussion in this course focuses on lean principles that apply broadly.
+
+Kanban is a Japanese word used at Toyota to generically describe an object that controls the flow of work. The actual object can vary depending on the situation, but it usually holds some information related to the work. By naming this type of object a kanban, Toyota basically was adding a new definition to the word. The idea came to Toyota from the way that supermarkets manage their inventory. Taiichi Ohno mentions in his book that he once came to the US to visit car companies but he was more excited about visiting and learning from the supermarkets.
+
+In supermarkets for some products instead of forecasting and having a product delivered at regular intervals, which is a push system, more product is only ordered when the current inventory reaches a reorder point. This is a pull system.
+
+This matches the supply and demand. For example, the supermarket doesn't need to guess how many cans of tomatoes to order or risk having too little or too much inventory. They can wait for one of the boxes to empty, then order another box.
+
+In this example, an empty box is acting as a kanban. It signals employees to order more product.
+Play video starting at :4:11 and follow transcript4:11
+Taiichi Ohno said in his book, from the supermarket, we got the idea of viewing the earlier process in a production line as a kind of store. When a later process used a component such as an engine it would provide a kanban to the earlier process. That kanban could be a piece of paper with information on it or something like an empty cart. This would signal the earlier process to build another component the earlier process only builds a component when it has been given a kanban. This is sometimes called adjusting time system.
+
+Even though the word kanban is used to represent work to do at Toyota, the concept has been around for a very long time. A guest check at a restaurant is a kanban. The work preparing an order does not start until the guest check is filled out. If no guests comes in, no orders are prepared. The information related to the order is on the guest check.
+
+An empty coffee cup when ordering coffee can also serve as a kanban. The size of the cup, your name, and the desired ingredients provide the information that is needed to start and fill your order. This kanban also happens to be a convenient delivery vehicle for your order.
+
+Another example of a kanban is a Jira issue. It provides information related to the work of the issue, without the Jira issue in the correct column the work shouldn't be started. You can see that all of these kanbans represent and hold information related to work to be done.
+
+Kanbans are not used in isolation. There is an associated system to them which sets the rules on how the kanbans are used.
+Play video starting at :5:54 and follow transcript5:54
+Taichi Ohno said that the Toyota production system is the production method,and the kanban system is the way that it is managed. He is pointing out that the kanbans are part of a kanban system.
+
+Similarly, every restaurant uses guest check kanbans in slightly different ways, depending on the kanban system.
+
+Also agile projects that use issues as kanbans use them in unique ways. There are many benefits to using kanban systems to manage work. Some of the benefits include, they visualize the work. Kanbans are visual, allowing you to see very clearly what work needs to be done.
+
+They are simple. Forecasting demand and managing inventories is usually a much more complicated approach to managing the work than using kanbans.
+
+They are reliable. This reliability comes from the visual aspect, and the simplicity of the system.
+
+They are efficient, an effective kanban system used resources only to do work that is of value to the customer.
+
+They eliminate waste. Instead of holding and managing inventory, the supply is matched to the demand.
+
+And finally, it is easy to identify bottlenecks or problems in the system and make adjustments to improve the workflow. This is mainly because the simplicity and just-in-time nature of the system makes it easy to see where problems occur.
+
+The term kanban has a few meanings, depending on the context.
+
+Kanban may refer to an object that controls the flow of work. We have seen that restaurant guest checks and jira issues can be considered kanbans. We could call these kanban tokens to help clarify the meaning.
+
+Kanban may also refer to the system that controls the flow of working using kanbans. We have see that Toyota has a system for how it uses kanbans just as restaurants have a system for how they use gas checks and how a team uses jira issues. We could call this a kanban system to help clarify the meaning.
+
+We have also seen that there is a lightweight agile method called kanban.
+
+It takes its name from the kanban system at Toyota but applies it to agile projects. This is a bit confusing because kanban tokens, kanban systems and even things like kanban boards are used in most agile methods, not only in the kanban method.
+
