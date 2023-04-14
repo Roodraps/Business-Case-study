@@ -204,19 +204,13 @@ What are you doing to find your greatness?
 
 # Toyota Kanban Approach 
 
-In this video, we will discuss Toyota Kanban. We will start with an overview of the Toyota Production System.
-
 In 1978, Taiichi Ohno considered to be the father of the Toyota Production System, wrote a book about the thinking behind the system.
-
-In this book he describes what is now sometimes called lean thinking or lean management. We will see that this book contains many of the principles that are used in agile projects.
 
 After World War II, Toyota had a goal to catch up with America in three years in the automobile industry. Japan's automobile industry was very small at the time compared to American companies like Ford and General Motors. The main focus of the Toyota production system is to eliminate waste and increase productivity. Taiichi Ohno had heard that American workers were something like nine times more productive than Japanese workers and decided that there must be a lot of wasted effort. The result was a decades long focus on eliminating waste and continuously improving. This eventually resulted in Toyota becoming the largest automobile company in the world.
 
 Whether or not the productivity numbers were true that's what Toyota believed and helps explain their focus on eliminating waste.
 
 Toyota studied and embraced many of the production ideas from Ford but used a more agile approach to producing cars. After World War II, resources were very scarce in Japan. And Toyota simply couldn't afford to hold a lot of inventory as was done in traditional mass production. Out of need, Toyota developed a leaner, more flexible approach to mass producing cars. We will see that this lean approach uses many of the same principles that are used today in agile projects.
-
-In his book, Taiichi Ohno emphasized the need for the team to have a clear purpose. He said I would like to emphasize that the Toyota production systems was realized because there were always clear purposes and needs.
 
 Lean principles of the Toyota production system can be applied in many contexts. They do not apply only to lean manufacturing or production. In fact, Taiichi Ohno wrote about this in the preface to the English edition of the book, which came out in 1988. He said the Toyota production system is not just a production system. I am confident it will reveal its strength as a management system adapted to today's era of global markets and high level computerized information systems. Our discussion in this course focuses on lean principles that apply broadly.
 
@@ -227,8 +221,8 @@ In supermarkets for some products instead of forecasting and having a product de
 This matches the supply and demand. For example, the supermarket doesn't need to guess how many cans of tomatoes to order or risk having too little or too much inventory. They can wait for one of the boxes to empty, then order another box.
 
 In this example, an empty box is acting as a kanban. It signals employees to order more product.
-Play video starting at :4:11 and follow transcript4:11
-Taiichi Ohno said in his book, from the supermarket, we got the idea of viewing the earlier process in a production line as a kind of store. When a later process used a component such as an engine it would provide a kanban to the earlier process. That kanban could be a piece of paper with information on it or something like an empty cart. This would signal the earlier process to build another component the earlier process only builds a component when it has been given a kanban. This is sometimes called adjusting time system.
+
+Taiichi Ohno said , we got the idea of viewing the earlier process in a production line as a kind of store. When a later process used a component such as an engine it would provide a kanban to the earlier process. That kanban could be a piece of paper with information on it or something like an empty cart. This would signal the earlier process to build another component the earlier process only builds a component when it has been given a kanban. This is sometimes called adjusting time system.
 
 Even though the word kanban is used to represent work to do at Toyota, the concept has been around for a very long time. A guest check at a restaurant is a kanban. The work preparing an order does not start until the guest check is filled out. If no guests comes in, no orders are prepared. The information related to the order is on the guest check.
 
